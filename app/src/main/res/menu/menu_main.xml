@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.umekalu.myjournal.MainActivity">
+    <item
+        android:title="ADD"
+        android:id="@+id/_"
+        android:orderInCategory="100"
+        android:icon="@drawable/add_button"
+        app:showAsAction="always"/>
+
+</menu>
